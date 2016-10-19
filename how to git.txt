@@ -1,7 +1,7 @@
 git clone http://currucuxu.no-ip.info:3000/Powershell/ScriptingGames2012.git
 cd ScriptingGames2012/
 <COPIAR FICHEROS>
-git add *
+git add --all
 git commit -m "TEXTO COMMIT"
 git push origin master
 
